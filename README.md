@@ -1,5 +1,6 @@
 # Oma- ja laensõnade kasutuse võrdlemine
 Siin repositooriumis on digihumanitaaria projekti raames koostatud kood oma- ja laensõnade kasutuse võrdlemiseks. <br>
+
 Failis laensonad.ipnyb on kood Jupyter Notebooki kujul, mida saab kasutada Jupyteri keskkonnas.<br>
 Failis laensonad.Rmd on kood R markdowni kujul, mida saab kasutada RStudios.<br>
 Faili laensonad.html abil on kood ja selle väljundid vaadeldavad veebibrauseris.
