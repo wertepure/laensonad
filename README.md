@@ -1,5 +1,5 @@
 # Oma- ja laensõnade kasutuse võrdlemine
-Siin repositooriumis on digihumanitaaria projekti raames koostatud kood oma- ja laensõnade kasutuse võrdlemiseks. <br>
+Siin repositooriumis on digihumanitaaria projekti raames koostatud kood oma- ja laensõnade kasutuse võrdlemiseks. Uurimise all on sõnad, millel on eesti omasõna ja vastav samatähenduslik vene, saksa ja/või inglise laen. Kood otsib Digari ajakirjandustekstidest tekste, kus otsitavaid sõnu on mainitud, salvestab nee failidena ja koostab nende failide tulemusel oma- ja laensõnade kasutussageduse võrdlemiseks graafikud ja tabelid<br>
 
 Failis laensonad_kood.ipnyb on kood Jupyter Notebooki kujul, mida saab kasutada Jupyteri keskkonnas.<br>
 
